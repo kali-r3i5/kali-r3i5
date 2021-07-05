@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aton-bertini-d%C3%B6rnfeld-143986104/](https://www.linkedin.com/in/aton-bertini-d%C3%B6rnfeld-143986104/)
-
 - 💬 Ask me about **Javascript , Html5 , Css3 , React**
 
 - 📫 How to reach me **kali-r3i5**
