@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
 
-- 💬 Ask me about **Javascript , Html5 , Css3 , React**
+- 💬 Ask me about **Javascript , Html5 , Css3 , React, Styled-Components, Typescript**
 
 - 📫 How to reach me **kali-r3i5**
 
