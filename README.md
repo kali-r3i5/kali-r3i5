@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kali-r3i5&label=Profile%20views&color=0e75b6&style=flat" alt="kali-r3i5" /> </p>
 
-- 🔭 I’m currently working on [Reis e Bertini](https://reisebertini.netlify.app/)
+- 🔭 I’m currently working on [NTTDATA Europe & Latam](https://br.nttdata.com/)
+  
+- 👨‍💻 My last occupation was at [Reis e Bertini](https://reisebertini.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://reisebertini.netlify.app/](https://reisebertini.netlify.app/)
 
 - 💬 Ask me about **Javascript , Html5 , Css3 , React, Styled-Components, Typescript**
 
